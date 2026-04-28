@@ -25,3 +25,11 @@
    ```bash
    git clone [https://github.com/your-username/market-ai.git](https://github.com/your-username/market-ai.git)
    cd market-ai
+2. **Установите зависимости:**
+   ```bash
+   npm install
+3. **Запустите проект:**
+   ```bash
+   npx expo start
+
+   
