@@ -23,7 +23,7 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone [https://github.com/your-username/market-ai.git](https://github.com/your-username/market-ai.git)
+   git clone [https://github.com/victimuss/market-ai.git](https://github.com/victimuss/market-ai.git)
    cd market-ai
 2. **Установите зависимости:**
    ```bash
